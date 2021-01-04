@@ -13,24 +13,23 @@ By removing the ninth-grade scores from Thomas High School, the district summary
 
 ### School Summary
 
-By removing the ninth-grade scores from Thomas High School, the school summary didn’t change much. The scores from Thomas High School all remained 
+By removing the ninth-grade scores from Thomas High School, the school summary didn’t change much. The scores from Thomas High School only changed by a few decimal points, as did the % Passing for Math, Reading and Overall. The Average Math Score went from 83.41 to 83.35. The Average Reading Score went from 83.84 to 83.89, so it acutally improved a bit! The % Passing Math went from 93.27 to 93.18, The % Passing Reading went from 97.3 to 97.0, and the % Overall Passing went from 90.95 to 90.63.
 
 ### Performance Relative to Other Schools
 
-By removing the ninth graders’ math and reading scores, Thomas High School’s performance relative to other schools remained the same. They stayed as the second-highest performing school, though their passing percentages did decrease slightly. The % Passing Math went from 93.27% to 93.18%, the % Passing Reading went from 97.3% to 97.01%. The Overall Passing % went from 90.9% to 90.6%
+By removing the ninth graders’ math and reading scores, Thomas High School’s performance relative to other schools remained the same. They stayed as the second-highest performing school, though their passing percentages did decrease slightly. The % Passing Math went from 93.27% to 93.18%, the % Passing Reading went from 97.3% to 97.01%. The Overall Passing % went from 90.9% to 90.6%.
 
 ### Impact On Scores
 
 -The math and reading scores by grade did not change, with the exception of the 9th grade scores for Thomas High School. Because those were the only scores removed, the other scores remained the same.
 
--The scores by school spending were not impacted by the removal of the ninth-grade scores from Thomas High School. The only bucket that would have been impacted was the $630-$644 bucket, since that’s the one THS falls into. 
+-The scores by school spending were not impacted by the removal of the ninth-grade scores from Thomas High School. The only bucket that would have been impacted was the $630-$644 bucket, since that’s the one THS falls into. But there was no impact on the overall scores by school spending. 
 
 -The scores by school size was not impacted either. The only bucket that would have been impacted was the Medium sized schools, as that is the one THS falls into.
 
 -Scores by school type was not impacted either. The only bucket that would have been impacted is Charter schools, as that is the one that THS falls into.
 
-
 ## Summary
 
-After replacing the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, not much changed. The scores of about 500 students were removed from a dataset with over 39,000 students, which wasn’t enough to make a huge impact. The passing percentages in the district summary (all three - % Passing Math, % Passing Reading and % Passing Overall) went down slightly. The performance relative to other schools did not change, with
+After replacing the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, not much changed. The scores of about 500 students were removed from a dataset with over 39,000 students, which wasn’t enough to make a huge impact. The passing percentages in the district summary (all three - % Passing Math, % Passing Reading and % Passing Overall) went down slightly. The performance relative to other schools did not change, with Thomas High School still being listed in the top 5 high schools in the district. The Average Math Score at THS decreased slightly with the 9th grade scores removed, but the Average Reading Score actually improved!
 
