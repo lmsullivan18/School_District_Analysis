@@ -13,7 +13,7 @@ By removing the ninth-grade scores from Thomas High School, the district summary
 
 ### School Summary
 
-By removing the ninth-grade scores from Thomas High School, the school summary didn’t change much. The scores from Thomas High School only changed by a few decimal points, as did the % Passing for Math, Reading and Overall. The Average Math Score went from 83.41 to 83.35. The Average Reading Score went from 83.84 to 83.89, so it acutally improved a bit! The % Passing Math went from 93.27 to 93.18, The % Passing Reading went from 97.3 to 97.0, and the % Overall Passing went from 90.95 to 90.63.
+By removing the ninth-grade scores from Thomas High School, the school summary didn’t change much. The scores from Thomas High School only changed by a few decimal points, as did the % Passing for Math, Reading and Overall. The Average Math Score went from 83.41 to 83.35. The Average Reading Score went from 83.84 to 83.89, so it acutally improved a bit! The % Passing Math went from 93.27% to 93.18%, The % Passing Reading went from 97.3% to 97.0%, and the % Overall Passing went from 90.95% to 90.63%.
 
 ### Performance Relative to Other Schools
 
